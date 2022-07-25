@@ -32,4 +32,5 @@ load data immediately and refresh with a network call if there is already data i
 - minimum OS version 13.0
 - MVVM perttern 
 - Asynchronous and lazy fetching 
-- 
+- local storage using realm 
+
